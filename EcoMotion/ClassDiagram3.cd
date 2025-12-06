@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EcoMotion.BL.Customer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAQAAAAAAAAQAAAAEAAAgBBABIAAQAQAgE=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.Inventory">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAEAQAAAIQAAACGACAAAAABgAEBAQACASEAAgA=</HashCode>
+      <FileName>BL\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.Motor">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQgAACAIAAAAAAAAQAAABCAAAAAgADAAABBwACEQQAA=</HashCode>
+      <FileName>BL\Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.Repairing">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEBQAAAAQAACAGAAAQAAAhgAEAoQASAIAAAgA=</HashCode>
+      <FileName>BL\Repairing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.Sale">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQAAAABACAAAQAgIAAAAAAAAAAAAAAAEUA=</HashCode>
+      <FileName>BL\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.SpareParts">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAAQAAAAAAAAAAAAAAAAAAAACAAAAQsAAAERI=</HashCode>
+      <FileName>BL\SpareParts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcoMotion.BL.Worker">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAEAAAABAAAAAAAAAQAAAAFAAAgBBAAIACUAAAgE=</HashCode>
+      <FileName>BL\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
